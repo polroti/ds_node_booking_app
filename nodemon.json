@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_PW":"polroti123",
+        "JWT_KEY":"supersecretjwtkey"
+    }
+}
